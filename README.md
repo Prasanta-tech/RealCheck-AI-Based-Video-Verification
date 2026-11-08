@@ -106,6 +106,16 @@ an issue or submit a pull request.
 
 
 
+## Testing
+
+Before contributing, please test the
+application locally and verify that the
+main API endpoints work as expected.
+
+Report any issues through GitHub Issues.
+
+
+
 
 ## System Architecture
 
