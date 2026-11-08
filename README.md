@@ -95,6 +95,18 @@ The backend supports streaming generated responses to the frontend so users can 
 
 ---
 
+
+## Contributions
+
+Contributions are welcome!
+
+If you find a bug or have suggestions for
+improving this project, feel free to open
+an issue or submit a pull request.
+
+
+
+
 ## System Architecture
 
 ```text
